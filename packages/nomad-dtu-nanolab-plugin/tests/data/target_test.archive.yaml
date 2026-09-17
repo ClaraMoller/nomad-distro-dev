@@ -1,3 +1,0 @@
-data:
-  m_def: nomad_dtu_nanolab_plugin.schema_packages.target.DTUTarget
-  impurity_file: NOMAD_ready_Lesker.txt

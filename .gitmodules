@@ -1,6 +1,7 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
-[submodule "packages/DTU-Nanolab-materials-discovery/nomad-dtu-nanolab-plugin"]
-	path = packages/DTU-Nanolab-materials-discovery/nomad-dtu-nanolab-plugin
+[submodule "packages/nomad-dtu-nanolab-plugin"]
+	path = packages/nomad-dtu-nanolab-plugin
 	url = https://github.com/DTU-Nanolab-materials-discovery/nomad-dtu-nanolab-plugin.git
+	branch = 210-extending-bell-jar-evaporator-class-basics

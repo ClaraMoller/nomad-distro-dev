@@ -1,7 +1,0 @@
-mkdocs
-mkdocs-material>=9.0
-pymdown-extensions
-mkdocs-click
-mkdocs-macros-plugin>=1.0
-mkdocs-glightbox
-nomad-docs>=0.1.3
